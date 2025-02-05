@@ -31,6 +31,8 @@ En esta práctica se implementaron técnicas fundamentales de visión por comput
 ### Práctica 1: Procesamiento de Imágenes
 
 #### Actividad 1: Procesamiento Básico
+#### Código fuente: https://github.com/tionerJack/vision-verde/blob/main/practica1_activida_1.py
+
 - Implementación de conversión a escala de grises
 - Análisis estadístico de imágenes
 - Generación y análisis de histogramas
@@ -43,6 +45,8 @@ En esta práctica se implementaron técnicas fundamentales de visión por comput
 *Figura 1: Procesamiento básico de imagen y análisis de histograma*
 
 #### Actividad 2: Template Matching
+#### Código fuente: https://github.com/tionerJack/vision-verde/blob/main/practica1_activida_2.py
+
 - Desarrollo de algoritmo de búsqueda de patrones
 - Implementación de detección de coincidencias
 - Marcado visual de áreas coincidentes
@@ -56,6 +60,8 @@ En esta práctica se implementaron técnicas fundamentales de visión por comput
 ### Práctica 2: Seguimiento de Objetos por Color
 
 #### Actividad 1: Seguimiento de Objetos Verdes
+#### Código fuente: https://github.com/tionerJack/vision-verde/blob/main/practica2_activida_1.py
+
 - Desarrollo de algoritmo de detección en espacio HSV
 - Implementación de seguimiento en tiempo real
 - Visualización de trayectoria del objeto
@@ -67,6 +73,8 @@ En esta práctica se implementaron técnicas fundamentales de visión por comput
 *Figura 3: Seguimiento de objetos verdes y trazado de trayectoria*
 
 #### Actividad 2: Seguimiento de Objetos Azules
+#### Código fuente: https://github.com/tionerJack/vision-verde/blob/main/practica2_activida_2.py
+
 - Adaptación del algoritmo para detección de azul
 - Optimización de parámetros HSV
 - Mejoras en la visualización
